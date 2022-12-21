@@ -9,7 +9,7 @@
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://johnsuico.com" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/3592ff/web.png" height="40px" marginleft="10px"/>
+      <img src="https://img.icons8.com/glyph-neue/64/3592ff/domain.png" height="40px" marginleft="10px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://drive.google.com/file/d/1jw8qS3nfd8SaiYVVwv9vc7zXzYj4iBbV/view" target="_blank">
