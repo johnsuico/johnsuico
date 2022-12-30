@@ -12,7 +12,7 @@
       <img src="https://img.icons8.com/glyph-neue/64/3592ff/domain.png" height="40px" marginleft="10px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://drive.google.com/file/d/1jw8qS3nfd8SaiYVVwv9vc7zXzYj4iBbV/view" target="_blank">
+    <a href="https://drive.google.com/file/d/1fF7tJt72mhWY6WKEHNnWfxj1XaCA26qs/view?usp=sharing" target="_blank">
       <img src="https://img.icons8.com/pastel-glyph/64/3592ff/happy-file--v2.png" height="40px"/>
     </a>
   </div>
