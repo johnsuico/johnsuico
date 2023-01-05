@@ -54,3 +54,10 @@
 </div>
 
 &#8287;
+
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsuico)
+
+</div>
+  
