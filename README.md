@@ -8,10 +8,6 @@
       <img src="https://img.icons8.com/ios-filled/50/3592ff/linkedin.png" height="40px" width="40px"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://johnsuico.com" target="_blank">
-      <img src="https://img.icons8.com/glyph-neue/64/3592ff/domain.png" height="40px" marginleft="10px"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://drive.google.com/file/d/1KNz3Wb3XdhV4Jjm6394Qfj8F5kPOp5et/view?usp=sharing" target="_blank">
       <img src="https://img.icons8.com/pastel-glyph/64/3592ff/happy-file--v2.png" height="40px"/>
     </a>
