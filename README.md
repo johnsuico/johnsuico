@@ -48,12 +48,3 @@
   <img src="https://img.icons8.com/color/36/null/figma--v1.png" alt="" title="Figma"/>
   <img src="https://img.icons8.com/color/36/null/gimp.png" alt="" title="GIMP"/>
 </div>
-
-&#8287;
-
-<div align="center">
-
- [![Top Langs](https://github-readme-stats-jet-one-16.vercel.app/api/top-langs/?username=johnsuico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-  
